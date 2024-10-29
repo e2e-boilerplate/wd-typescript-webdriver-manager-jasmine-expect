@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-jasmine-expect/issues"
   },
   "dependencies": {
-    "chai-as-promised": "7.1.1",
+    "chai-as-promised": "7.1.2",
     "jasmine": "3.8.0",
     "ts-node": "9.1.1",
     "typescript": "4.3.5",
